@@ -163,7 +163,7 @@ n8n-ai-automation/
 ## Prerequisites
 
 - n8n
-- OpenAI API Key
+- OpenAI 
 - Google Account
 - Google Sheets
 
